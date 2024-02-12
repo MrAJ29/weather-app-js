@@ -21,8 +21,8 @@ body {
   max-width: 425px;
   width: 100%;
   text-align: center;
-  background: rgba(255, 255, 255, 0.15);
-  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.10);
+  background: rgba(65, 65, 65, 0.15);
+  box-shadow: 0 8px 32px 0 rgba(22, 27, 101, 0.1);
   backdrop-filter: blur(10px);
   -webkit-backdrop-filter: blur(10px);
   border-radius: 20px;
